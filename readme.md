@@ -1,0 +1,1 @@
+- Exporting the most basic component did not worked properly with 'jsx' extension. It worked properly with 'js' extension.
